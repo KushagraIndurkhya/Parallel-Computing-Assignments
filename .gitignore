@@ -1,0 +1,6 @@
+/archives
+.DS_Store
+settings.json
+*.txt
+*.out
+*.log
